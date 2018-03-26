@@ -1,0 +1,12 @@
+E:\Check Net\AirTicket\AirTicket\bin\Release\AirTicket.exe.config
+E:\Check Net\AirTicket\AirTicket\bin\Release\AirTicket.exe
+E:\Check Net\AirTicket\AirTicket\bin\Release\AirTicket.pdb
+E:\Check Net\AirTicket\AirTicket\bin\Release\Newtonsoft.Json.dll
+E:\Check Net\AirTicket\AirTicket\bin\Release\Newtonsoft.Json.xml
+E:\Check Net\AirTicket\AirTicket\obj\Release\AirTicket.FormAirTicket.resources
+E:\Check Net\AirTicket\AirTicket\obj\Release\AirTicket.FormSchedulerSetting.resources
+E:\Check Net\AirTicket\AirTicket\obj\Release\AirTicket.Properties.Resources.resources
+E:\Check Net\AirTicket\AirTicket\obj\Release\AirTicket.csproj.GenerateResource.Cache
+E:\Check Net\AirTicket\AirTicket\obj\Release\AirTicket.csproj.CoreCompileInputs.cache
+E:\Check Net\AirTicket\AirTicket\obj\Release\AirTicket.exe
+E:\Check Net\AirTicket\AirTicket\obj\Release\AirTicket.pdb

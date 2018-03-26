@@ -326,7 +326,7 @@ namespace AirTicket
             set;
         }
 
-        public String flightRescheduleInfo
+        public ATKFlightRescheduleInfo flightRescheduleInfo
         {
             get;
             set;
@@ -339,6 +339,28 @@ namespace AirTicket
         }
 
         public List<ATKSegments> segments
+        {
+            get;
+            set;
+        }
+    }
+
+    [Serializable]
+    public class ATKFlightRescheduleInfo
+    {
+        public String rescheduleStatus
+        {
+            get;
+            set;
+        }
+
+        public String rescheduleInfoSummary
+        {
+            get;
+            set;
+        }
+
+        public List<String> policyDetails
         {
             get;
             set;
